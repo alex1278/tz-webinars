@@ -8,7 +8,7 @@ import ProfileContainer from './containers/ProfileContainer'
 import NewsContainer from './containers/NewsContainer'
 import NotFound from './components/NotFound'
 import './App.css'
-import CssBaseline from 'material-ui/CssBaseline'
+import CssBaseline from '@material-ui/core/CssBaseline'
 
 const App = () => (
   <CssBaseline>
